@@ -152,7 +152,7 @@ int[] Arr5 = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
 Console.WriteLine(Arr5.Sum());
 
 // 5. Get the total number of characters of all words in dictionary_english.txt (Read dictionary_english.txt into Array of String First).
-string[] arrDic = File.ReadAllLines(@"E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\dictionary_english.txt");
+string[] arrDic = File.ReadAllLines(@"dictionary_english.txt");
 Console.WriteLine("5) Get the total number of characters of all words in dictionary_english.txt: ");
 Console.WriteLine(arrDic.Sum(s => s.Length));
 
