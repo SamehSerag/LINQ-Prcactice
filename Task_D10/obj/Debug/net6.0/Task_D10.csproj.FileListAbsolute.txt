@@ -1,0 +1,15 @@
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.csproj.AssemblyReference.cache
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.AssemblyInfoInputs.cache
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.AssemblyInfo.cs
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.csproj.CoreCompileInputs.cache
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\Task_D10.exe
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\Task_D10.deps.json
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\Task_D10.runtimeconfig.json
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\Task_D10.dll
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\ref\Task_D10.dll
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\bin\Debug\net6.0\Task_D10.pdb
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.dll
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\ref\Task_D10.dll
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.pdb
+E:\ITI\C#\D10\Tasks\Task_D10\Task_D10\obj\Debug\net6.0\Task_D10.genruntimeconfig.cache
